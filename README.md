@@ -15,11 +15,6 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
 
-
-## Experiment:
-![Screenshot 2024-12-20 142720](https://github.com/user-attachments/assets/b3bb4452-01c3-400c-ad38-deb049fb8380)
-
-
 ## Program
 ![Screenshot 2024-12-20 141724](https://github.com/user-attachments/assets/2ef4af77-b06b-4c32-a4bf-d0a13ebcca5b)
 
